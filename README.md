@@ -12,7 +12,7 @@ The authors wanted answers to the following:
 
 3)	Linear Regression: What is the relationship between temperature and C02 emissions? What if we account for pressure and humidity? Investigate the relationship between the two variables.
 
-4)	### Machine Learning: Can we effectively predict rain tomorrow using the data we have? How impactful are the features we regarded important in the previous parts? How far are the model’s performances from the state-of-the-art? Choose to implement one model between: XGBoost, CNN or some ensemble methods. @Me
+4)	### Machine Learning: Can we effectively predict rain tomorrow using the data we have? How impactful are the features we regarded important in the previous parts? How far are the model’s performances from the state-of-the-art? Choose to implement one model between: XGBoost, CNN or some ensemble methods.
 
 5)	Conclusions and Summary: Summarize the findings and state the main takeaways
 
