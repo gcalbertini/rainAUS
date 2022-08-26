@@ -1,9 +1,8 @@
 # DSGA-1001 Capstone Project: Fall 2021 @ NYU
-## The following data and notebook is submitted to satisfy the capstone project requirement for the Introduction to Data Science course at NYU. 
 
 The Kaggle dataset for the ML portion (for which I was responsible) can be found __[here](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)__ or through the Kaggle API with `kaggle datasets download -d jsphyg/weather-dataset-rattle-package`
 
-Note: The data herein has been adapated from that found in Australian Government's Bureau of Metereology __[page](http://www.bom.gov.au/climate/data/)__.
+Note: The data herein has been adapted from that found in Australian Government's Bureau of Metereology __[page](http://www.bom.gov.au/climate/data/)__.
 ___
 The authors wanted answers to the following:
 
